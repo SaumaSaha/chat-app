@@ -1,0 +1,15 @@
+{
+  "name": "chat-app-vidita-sauma",
+  "version": "1.0.0",
+  "description": "chat-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "lint": "eslint ."
+  },
+  "author": "sauma-vidita",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
